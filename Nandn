@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bthonen on github.
+  * I am baksjaak (https://keybase.io/baksjaak) on keybase.
+  * I have a public key ASDnuruITU6_ns41QtAnntF4b-qKThaHxDPGKzTD6NKROQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e7babb884d4ebf9ece3542d0279ed1786fea8a4e1687c433c62b34c3e8d291390a",
+      "host": "keybase.io",
+      "kid": "0120e7babb884d4ebf9ece3542d0279ed1786fea8a4e1687c433c62b34c3e8d291390a",
+      "uid": "e52a6e37fdd665dd748aa09a6c4d0519",
+      "username": "baksjaak"
+    },
+    "merkle_root": {
+      "ctime": 1569162458,
+      "hash": "fc0d3093b83eea73e83ca32b7f5691644299521bb18b7a66342ae3ac9b89e567447fc97985624a2a992a9352e78e2223d438c89cff0908a75dbeed84fcd15ae7",
+      "hash_meta": "66304cd640518e03440caa9a27dd31c9c7fba485ecb0dd33dae1743382a0b1e4",
+      "seqno": 7684646
+    },
+    "service": {
+      "entropy": "5Y3LDpHyenFZXEF7/7I3xbrN",
+      "name": "github",
+      "username": "bthonen"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569162465,
+  "expire_in": 504576000,
+  "prev": "a55d87b116556ea36f77dda5400a0c45aede72fd729d7f9bd3f9c240f3e1956b",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASDnuruITU6_ns41QtAnntF4b-qKThaHxDPGKzTD6NKROQo](https://keybase.io/baksjaak), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg57q7iE1Ov57ONULQJ57ReG/qik4Wh8Qzxis0w+jSkTkKp3BheWxvYWTESpcCCcQgpV2HsRZVbqNvd92lQAoMRa7ecv1ynX+b0/nCQPPhlWvEIOyHnaXAUnRxP40otthpqV4JZT0mpa7+wNCCCDmiIHlyAgHCo3NpZ8RA0JZCdf+4bzk2pmvDLx/exrhisA8JUBmcJ3e4vYdQhaA4kGNLDCM8s9J3tj18RQAVRSQ9xK2sA/XPn+OicZ9cD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMxhRABXvR1T5FYr9eONgbfE1DYKDW5XPw1mmPkpDYx7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/baksjaak
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id baksjaak
+```
